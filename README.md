@@ -39,7 +39,7 @@
 
 
 ### Conseil en vrac:
-> Nous vous conseillons de prendre une trame capturer a l'aide du logiciel Wireshark avec l'option "copy byte as Hex + ASCII Dump" (le logiciel est flexible mais une plus forte probabilitÃ© de reussite est garantie avec cette methode)
+> Nous vous conseillons de prendre une trame capturer a l'aide du logiciel Wireshark avec l'option "copy byte as Hex + ASCII Dump" (le logiciel est flexible mais une plus forte probabilité de reussite est garantie avec cette methode)
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/15380435/144995700-6fd1d3c9-d6d9-41f8-ad73-52f24e23fb50.png">
 
 > Avant de commencer a analysÃ© vos fichier, nous vous conseillons de regarder si le logiciel arrive a decoder la trame: "./data/exemple7.txt" et "./data/exemple8.txt"
