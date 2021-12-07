@@ -2,7 +2,7 @@
 ### Pourquois ce Projet:
 > Ce projet à été créé afin de realisé le projet de l'UE LU3IN033 de Sorbonne Universite: Faire un analyseur de trame hexadecimal réseau avec encapsulation Ethernet en traitant la couche Ethernet, IP, UDP, DHCP et DNS.
 
-### Qui sont les autheurs?
+### Qui sont les auteurs?
 > Nous avons choisi de garder notre anonyma puisque ce repository est visible publiquement et est partager a des fin d'aide sur une communauté. Nous avons sur ce compte github le repository privé ayant les commits specifique Sorbonne avec nos vrais nom pour si le besoin vient à se faire, prouver notre appartenance IRL au projet.
 
 ### Que puis-je faire de ce projet?
