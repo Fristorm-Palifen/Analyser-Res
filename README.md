@@ -1,4 +1,4 @@
-[![Labeler](https://github.com/Fristorm-Palifen/Analyser-Res/actions/workflows/Validation.yml/badge.svg)](https://github.com/Fristorm-Palifen/Analyser-Res/actions/workflows/Validation.yml)
+[![Validation](https://github.com/Fristorm-Palifen/Analyser-Res/actions/workflows/Validation.yml/badge.svg)](https://github.com/Fristorm-Palifen/Analyser-Res/actions/workflows/Validation.yml)
 # Preambule
 ### Pourquois ce Projet:
 > Ce projet à été créé afin de realisé le projet de l'UE LU3IN033 de Sorbonne Universite: Faire un analyseur de trame hexadecimal réseau avec encapsulation Ethernet en traitant la couche Ethernet, IP, UDP, DHCP et DNS.
