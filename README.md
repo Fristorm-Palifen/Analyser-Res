@@ -37,7 +37,7 @@
 > le path renseigner dans l'application doit etre absolue si le fichier est pas directement dans un sous repertoire du projet sinon relatif (en commenÃ§ant par ./) si dans un sous repertoire.
     
 ### Fichier de sortie:
-> Le path du fichier de sortie est conseillez en path absolue meme si le .txt n'est pas renseignÃ© il sera enregistrer en txt (si vous voulez enregistrer dans votre bureau windows: renseignez C:\User\votrenom\Desktop\nomdufichier.txt)
+> Le path du fichier de sortie est conseillez en path absolue meme si le .txt n'est pas renseigné il sera enregistrer en txt (si vous voulez enregistrer dans votre bureau windows: renseignez C:\User\votrenom\Desktop\nomdufichier.txt)
 
 > Le repertoire doit etre dans un repertoire accessible sans sudo ou droit administrateur et la permission d'ecrire doit etre obtenue sans sudo ou droit administrateur!
 
@@ -46,7 +46,7 @@
 > Nous vous conseillons de prendre une trame capturer a l'aide du logiciel Wireshark avec l'option "copy byte as Hex + ASCII Dump" (le logiciel est flexible mais une plus forte probabilité de reussite est garantie avec cette methode)
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/15380435/144995700-6fd1d3c9-d6d9-41f8-ad73-52f24e23fb50.png">
 
-> Avant de commencer a analysÃ© vos fichier, nous vous conseillons de regarder si le logiciel arrive a decoder la trame: "./data/exemple7.txt" et "./data/exemple8.txt"
+> Avant de commencer a analysé vos fichier, nous vous conseillons de regarder si le logiciel arrive a decoder la trame: "./data/exemple7.txt" et "./data/exemple8.txt"
 
 ## Lancement depuis les sources:
 > Vous devez avoir la jdk 16 ou plus.
