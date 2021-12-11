@@ -1,6 +1,6 @@
-[![Validation](https://github.com/Fristorm-Palifen/Analyser-Res/actions/workflows/Validation.yml/badge.svg)](https://github.com/Fristorm-Palifen/Analyser-Res/actions/workflows/Validation.yml)
+L'etat de cet branche restera inchanger, c'est l'etat des source au moment de la soumission!
 
-[La Javadoc du projet](https://javadoc-reseau.palifen.fr/)
+[L'ancienne Javadoc du projet (date: 11/12/2021)](https://old-javadoc-reseau.palifen.fr/)
 
 # Preambule
 ### Pourquois ce Projet:
